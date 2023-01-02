@@ -18,3 +18,8 @@ npm install
 ```
 npm run serve
 ```
+#### 运行后端
+
+```
+py manage.py runserver 8001
+```
